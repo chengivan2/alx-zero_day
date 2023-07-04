@@ -1,1 +1,1 @@
-My firsst readme in the project directory
+My first readme in the project directory
